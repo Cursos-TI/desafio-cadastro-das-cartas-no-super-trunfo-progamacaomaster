@@ -1,5 +1,9 @@
 {
     "githubPullRequests.ignoredPullRequestBranches": [
         "main"
-    ]
+    ],
+    "files.associations": {
+        "supertrunfoaventureiro.C": "cpp",
+        "desafioaventureiro.C": "cpp"
+    }
 }
