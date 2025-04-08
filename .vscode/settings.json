@@ -4,6 +4,7 @@
     ],
     "files.associations": {
         "supertrunfoaventureiro.C": "cpp",
-        "desafioaventureiro.C": "cpp"
+        "desafioaventureiro.C": "cpp",
+        "logico.C": "cpp"
     }
 }
